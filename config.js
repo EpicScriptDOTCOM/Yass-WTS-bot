@@ -35,7 +35,7 @@ global.APIKeys = { // APIKey Here
 ]
 
 // Sticker WM
-global.packname = `「 YASSWTS BOT BY YASSIR 」`
+global.packname = `「 YASS WTS BOT BY YASSIR 」`
 global.author = ''
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
@@ -49,7 +49,7 @@ global.nomorown = '21287729258'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」 جاري تلبية طلبكم انتظر...```\ninstagam.com/Ya_El_Bo'
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」 جاري تلبية طلبكم انتظر...```\nhttps://www.instagram.com/kastro_gamer/?igshid=OGQ5ZDc2ODk2ZA%3D%3D'
 global.eror = '```404 ᴇʀʀᴏʀ```'
 
 global.rpg = {
