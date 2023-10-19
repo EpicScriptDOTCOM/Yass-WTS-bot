@@ -7,7 +7,7 @@ global.owner =
   ['+212687729258', 'YASSIR MD', true]
 ]
 // Put your number here
-// [number, he creator/owner?, he developer?]
+// [212687729258, YASSIR MD, true]
 
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
@@ -42,15 +42,15 @@ global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'NOUR BOT - 2023'
-global.bott = 'Nour md'
+global.me = 'YASSIR MD - 2023'
+global.bott = 'Yassir md'
 global.nomorown = '21287729258'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
 global.wait = '```「▰▰▰▱▱▱▱▱▱▱」 جاري تلبية طلبكم انتظر...```\nhttps://www.instagram.com/kastro_gamer/?igshid=OGQ5ZDc2ODk2ZA%3D%3D'
-global.eror = '```404 ᴇʀʀᴏʀ```'
+global.eror = '```404 ᴇʀʀᴏʀ 404 ᴇʀʀᴏʀ لم تزبط معنا هاهاها قصدي معكم```'
 
 global.rpg = {
   emoticon(string) {
